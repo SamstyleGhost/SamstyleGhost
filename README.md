@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamstyleGhost
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on hopefully some beginner level stuff as I have just started coding.
+- 👀 I’m interested in web development.
+- 🌱 I do web development and am currently learning React.js.
+- 💞️ I'm hoping to contribute to various open-source projects (C, C++, Web Dev).
 - 📫 How to reach me rohancrrm@gmail.com
 
 
