@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SamstyleGhost
-- 👀 I’m interested in web development.
-- 🌱 I do web development and am currently learning React.js.
-- 💞️ I'm hoping to contribute to various open-source projects (C, C++, Web Dev).
+- 👀 I am a Web Developer and have worked with various frameworks like SolidJS, NextJS, ReactJS, NodeJS, CSS (SCSS, Tailwind), Supabase, MySQL and also explored a bit of Springboot, Django, MongoDB, etc.
+- 🌱 Also building my own compiler.
 - 📫 How to reach me rohancrrm@gmail.com
 
 
