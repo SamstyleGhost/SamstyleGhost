@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Rohan Barde</h1>
 <h3 align="center">Software Engineer & Web Developer</h3>
 
-- 🔭 I’m currently working on **A Crypto Monitoring Tool which builds a visual network of a blockchain address and shows the cash flow network.**
-
-- 🌱 I’m currently learning **Compiler Design**
+- 🔭 I currently work as an SDE at Maxim AI.**
 
 - 👨‍💻 All of my projects are available at [https://rohanbarde.vercel.app/](https://rohanbarde.vercel.app/)
 - 
